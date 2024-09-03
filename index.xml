@@ -6,14 +6,21 @@
     <description>Recent content on My Website, LOL</description>
     <generator>Hugo -- 0.121.2</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 01 Sep 2024 22:05:17 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arcticmartian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://arcticmartian.github.io/reviews/first/</link>
-      <pubDate>Sun, 01 Sep 2024 22:05:17 +0200</pubDate>
-      <guid>https://arcticmartian.github.io/reviews/first/</guid>
-      <description>Mi primer post, esta chiquito pero es trabajo honesto.</description>
+      <title>Mi primer post :p</title>
+      <link>https://arcticmartian.github.io/pensamientos/myfirst/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://arcticmartian.github.io/pensamientos/myfirst/</guid>
+      <description>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</description>
+    </item>
+    <item>
+      <title>pensamientos</title>
+      <link>https://arcticmartian.github.io/pensamientos/pensamientos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arcticmartian.github.io/pensamientos/pensamientos/</guid>
+      <description>pensamientos</description>
     </item>
     <item>
       <title>plantitas</title>
@@ -24,9 +31,9 @@
     </item>
     <item>
       <title>recetas</title>
-      <link>https://arcticmartian.github.io/recetas/</link>
+      <link>https://arcticmartian.github.io/recetas/recetas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/</guid>
+      <guid>https://arcticmartian.github.io/recetas/recetas/</guid>
       <description>recetas</description>
     </item>
     <item>

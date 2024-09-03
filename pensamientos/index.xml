@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pensamientos on My Website, LOL</title>
+    <link>https://arcticmartian.github.io/pensamientos/</link>
+    <description>Recent content in Pensamientos on My Website, LOL</description>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://arcticmartian.github.io/pensamientos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi primer post :p</title>
+      <link>https://arcticmartian.github.io/pensamientos/myfirst/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://arcticmartian.github.io/pensamientos/myfirst/</guid>
+      <description>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</description>
+    </item>
+    <item>
+      <title>pensamientos</title>
+      <link>https://arcticmartian.github.io/pensamientos/pensamientos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arcticmartian.github.io/pensamientos/pensamientos/</guid>
+      <description>pensamientos</description>
+    </item>
+  </channel>
+</rss>
