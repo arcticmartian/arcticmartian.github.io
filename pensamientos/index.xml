@@ -6,21 +6,23 @@
     <description>Recent content in Pensamientos on blog en bajito</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arcticmartian.github.io/pensamientos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre el blog</title>
+      <link>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</guid>
+      <description>🌸 blog en bajito 🌸 Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.
+1. Contenido del blog Poco a poco iré subiendo post relacionados con temas que me gustan que por lo general serán:
+💭 Pensamientos varios 📖 Reseñas de libros y películas 🍽️ Recetas vejetarianas y veganas 2. ¿Por qué se llama blog en bajito? Este blog empezó llamándose &amp;ldquo;my silly little blog&amp;rdquo; pero no me terminaba de convencer porque el título estaba en inglés y el contenido iba a ser en español.</description>
+    </item>
     <item>
       <title>Mi primer post :p</title>
       <link>https://arcticmartian.github.io/pensamientos/myfirst/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://arcticmartian.github.io/pensamientos/myfirst/</guid>
       <description>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</description>
-    </item>
-    <item>
-      <title>pensamientos</title>
-      <link>https://arcticmartian.github.io/pensamientos/pensamientos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/pensamientos/pensamientos/</guid>
-      <description>pensamientos</description>
     </item>
   </channel>
 </rss>
