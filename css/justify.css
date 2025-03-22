@@ -1,12 +1,18 @@
-.p {
+p {
+    hyphenate-limit-chars: 7;
+    hyphens: auto;
     text-align: justify;
+    text-wrap: pretty;
     opacity: 1.0;
     width: 100%;
     height: auto;
-}
+  }
  
-.nested-links{
+nested-links{
+    hyphenate-limit-chars: 7;
+    hyphens: auto;
     text-align: justify;
+    text-wrap: pretty;
     opacity: 1.0;
     width: 100%;
     height: auto;

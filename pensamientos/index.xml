@@ -16,6 +16,26 @@
       <description>🌸 blog en bajito 🌸 Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.
 1. Contenido del blog Poco a poco iré subiendo post relacionados con temas que me gustan que por lo general serán:
 💭 Pensamientos varios 📖 Reseñas de libros y películas 🍽️ Recetas vejetarianas y veganas 2. ¿Por qué se llama blog en bajito? Este blog empezó llamándose &amp;ldquo;my silly little blog&amp;rdquo; pero no me terminaba de convencer porque el título estaba en inglés y el contenido iba a ser en español.</description>
+      <content:encoded><![CDATA[<h2 id="-blog-en-bajito-">🌸 blog en bajito 🌸</h2>
+<p><em>Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.</em></p>
+<h3 id="1-contenido-del-blog">1. Contenido del blog</h3>
+<p>Poco a poco iré subiendo post relacionados con temas que me gustan que por lo general serán:</p>
+<ul>
+<li>💭 Pensamientos varios</li>
+<li>📖 Reseñas de libros y películas</li>
+<li>🍽️ Recetas vejetarianas y veganas</li>
+</ul>
+<h3 id="2-por-qué-se-llama-blog-en-bajito">2. ¿Por qué se llama blog en bajito?</h3>
+<p>Este blog empezó llamándose &ldquo;<em><strong>my silly little blog</strong></em>&rdquo; pero no me terminaba de convencer porque el título estaba en inglés y el contenido iba a ser en español. Pensé en traducir el título a &ldquo;<em><strong>mi pequeño y tonto blog</strong></em>&rdquo; y aunque me hacía gracia no terminaba de gustarme del todo. Pasaron los meses y un día, de la nada, se me ocurrió &ldquo;<em><strong>blog en bajito</strong></em>&rdquo; y vi que encajaba conmigo. Es un blog personal para nada serio que iré completando sin prisa pero sin pausa (o esa es la intención). Básicamente lo he llamado así porque es un blog pequeño como un <em>susurro</em>. No pretende molestar a nada ni a nadie y al mismo tiempo es como el suspiro que alivia a quien lo escribe, que en este caso soy yo. Encantada, soy Marta y muchas gracias por leer hasta aquí /ᐠ • ˕ •マ.</p>
+<h3 id="3-cómo-está-hecho-el-blog">3. ¿Cómo está hecho el blog?</h3>
+<p>No tengo mucha idea de nada y hacer este blog se siente como el si el diseño gráfico fuera mi pasión.</p>
+<ul>
+<li>Es una página web estática hecha con <a href="https://gohugo.io/">HUGO</a>.</li>
+<li>El diseño de la página web es gracias a una plantilla llamada <a href="https://github.com/adityatelange/hugo-PaperMod/">PaperMod</a>.</li>
+<li>Las imágenes son todas mías, eso sí (◕ᴗ◕✿). Y los iconos del blog y del perfil los he hecho con <a href="https://www.aseprite.org/">Aseprite</a>, una herramienta de dibujo pixel art.</li>
+</ul>
+<p>Tengo que confesar que mi novio 💌 me ha ayudado un montón con todos los detalles técnicos y este blog existe gracias a él ^^.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Mi primer post :p</title>
@@ -23,6 +43,8 @@
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://arcticmartian.github.io/pensamientos/myfirst/</guid>
       <description>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</description>
+      <content:encoded><![CDATA[<p>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
