@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>blog en bajito</title>
-    <link>http://localhost:1313/</link>
+    <link>https://arcticmartian.github.io/</link>
     <description>Recent content on blog en bajito</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>es</language>
     <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arcticmartian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pastel de Tofu</title>
-      <link>http://localhost:1313/recetas/pastel-de-tofu/</link>
+      <link>https://arcticmartian.github.io/recetas/pastel-de-tofu/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recetas/pastel-de-tofu/</guid>
+      <guid>https://arcticmartian.github.io/recetas/pastel-de-tofu/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<p>Una receta fácil y rápida para tu tupper de mañana.</p>
 <h3 id="-ingredientes-">🧂 Ingredientes 🧄🧅🥦🥧</h3>
@@ -53,9 +53,9 @@
     </item>
     <item>
       <title>Tarta de queso kinder</title>
-      <link>http://localhost:1313/recetas/tarta-de-queso-kinder/</link>
+      <link>https://arcticmartian.github.io/recetas/tarta-de-queso-kinder/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recetas/tarta-de-queso-kinder/</guid>
+      <guid>https://arcticmartian.github.io/recetas/tarta-de-queso-kinder/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">☕ INGREDIENTES 🍰🥚🍫</h3>
 <hr>
@@ -123,9 +123,9 @@
     </item>
     <item>
       <title>Tiramisú</title>
-      <link>http://localhost:1313/recetas/tiramis%C3%BA/</link>
+      <link>https://arcticmartian.github.io/recetas/tiramis%C3%BA/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recetas/tiramis%C3%BA/</guid>
+      <guid>https://arcticmartian.github.io/recetas/tiramis%C3%BA/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">☕ INGREDIENTES 🍰🥚🍫</h3>
 <hr>
@@ -175,9 +175,9 @@
     </item>
     <item>
       <title>Torrijas</title>
-      <link>http://localhost:1313/recetas/torrijas/</link>
+      <link>https://arcticmartian.github.io/recetas/torrijas/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recetas/torrijas/</guid>
+      <guid>https://arcticmartian.github.io/recetas/torrijas/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">🥖 INGREDIENTES 🥛🥚🍊</h3>
 <hr>
@@ -234,9 +234,9 @@
     </item>
     <item>
       <title>Torrijas airfryer</title>
-      <link>http://localhost:1313/recetas/torrijas-airfryer/</link>
+      <link>https://arcticmartian.github.io/recetas/torrijas-airfryer/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recetas/torrijas-airfryer/</guid>
+      <guid>https://arcticmartian.github.io/recetas/torrijas-airfryer/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">🥖 INGREDIENTES 🥛🥚🍊</h3>
 <hr>
@@ -292,9 +292,9 @@
     </item>
     <item>
       <title>Sobre el blog</title>
-      <link>http://localhost:1313/pensamientos/sobre-el-blog/</link>
+      <link>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pensamientos/sobre-el-blog/</guid>
+      <guid>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</guid>
       <description>&lt;h2 id=&#34;-blog-en-bajito-&#34;&gt;🌸 blog en bajito 🌸&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;1-contenido-del-blog&#34;&gt;1. Contenido del blog&lt;/h3&gt;
@@ -329,9 +329,9 @@
     </item>
     <item>
       <title>Pastel de Brócoli</title>
-      <link>http://localhost:1313/recetas/pastel-de-brocoli/</link>
+      <link>https://arcticmartian.github.io/recetas/pastel-de-brocoli/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recetas/pastel-de-brocoli/</guid>
+      <guid>https://arcticmartian.github.io/recetas/pastel-de-brocoli/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<p>Una receta fácil y rápida para tu tupper de mañana.</p>
 <h3 id="-ingredientes-">🧂 Ingredientes 🧄🧅🥦🥧</h3>
@@ -397,9 +397,9 @@
     </item>
     <item>
       <title>Garbanzos con Espinacas</title>
-      <link>http://localhost:1313/recetas/garbanzos-con-espinacas/</link>
+      <link>https://arcticmartian.github.io/recetas/garbanzos-con-espinacas/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recetas/garbanzos-con-espinacas/</guid>
+      <guid>https://arcticmartian.github.io/recetas/garbanzos-con-espinacas/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<p>Una receta fácil y rápida para tu tupper de mañana.</p>
 <h3 id="-ingredientes-">🧂 Ingredientes 🧄🧅🌱</h3>
@@ -449,9 +449,9 @@
     </item>
     <item>
       <title>Reseña Cumbres Borrascosas (wuthering heights) de Emily Brontë</title>
-      <link>http://localhost:1313/rese%C3%B1as/cumbres_borrascosas/</link>
+      <link>https://arcticmartian.github.io/rese%C3%B1as/cumbres_borrascosas/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rese%C3%B1as/cumbres_borrascosas/</guid>
+      <guid>https://arcticmartian.github.io/rese%C3%B1as/cumbres_borrascosas/</guid>
       <description>&lt;p&gt;Por fin me he terminado Cumbres Borrascosas 📖🏔️⛈️🌬️ y a pesar de que los personajes me han caído todos fatal me ha gustado mucho.&lt;/p&gt;
 &lt;p&gt;Ha sido muy fuerte leer este libro y que encima sea un libro de 1847 escrito por una mujer. Emily Brönte publicó Cumbres Borrascosas bajo el pseudónimo de Ellis Bell y, a pesar de ser un nombre bastante neutro, la gente dio por hecho que estaba escrito por un hombre debido a que trata temas muy pasionales y crudos como el deseo sexual, la violencia, el alcoholismo y la locura.
 Pero, yo me pregunto, ¿cómo un hombre de aquella época podría haber escrito este libro, estando lleno de sentimientos fuertísimos, complejos y estando narrado con tanta intensidad y detalle? en fin cosas de la época victoriana y eso.&lt;/p&gt;</description>
@@ -466,18 +466,18 @@ Pero, yo me pregunto, ¿cómo un hombre de aquella época podría haber escrito 
     </item>
     <item>
       <title>Mi primer post :p</title>
-      <link>http://localhost:1313/pensamientos/myfirst/</link>
+      <link>https://arcticmartian.github.io/pensamientos/myfirst/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pensamientos/myfirst/</guid>
+      <guid>https://arcticmartian.github.io/pensamientos/myfirst/</guid>
       <description>&lt;p&gt;Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>plantitas</title>
-      <link>http://localhost:1313/plantitas/plantitas/</link>
+      <link>https://arcticmartian.github.io/plantitas/plantitas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plantitas/plantitas/</guid>
+      <guid>https://arcticmartian.github.io/plantitas/plantitas/</guid>
       <description>plantitas</description>
       <content:encoded><![CDATA[<p>Aquí pondré datos sobre las plantitas que tengo 🌱</p>
 ]]></content:encoded>
