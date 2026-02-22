@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Recetas on blog en bajito</title>
-    <link>https://arcticmartian.github.io/recetas/</link>
+    <link>http://localhost:1313/recetas/</link>
     <description>Recent content in Recetas on blog en bajito</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>es</language>
     <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://arcticmartian.github.io/recetas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/recetas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pastel de Tofu</title>
-      <link>https://arcticmartian.github.io/recetas/pastel-de-tofu/</link>
+      <link>http://localhost:1313/recetas/pastel-de-tofu/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/pastel-de-tofu/</guid>
+      <guid>http://localhost:1313/recetas/pastel-de-tofu/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<p>Una receta fácil y rápida para tu tupper de mañana.</p>
 <h3 id="-ingredientes-">🧂 Ingredientes 🧄🧅🥦🥧</h3>
@@ -53,9 +53,9 @@
     </item>
     <item>
       <title>Tarta de queso kinder</title>
-      <link>https://arcticmartian.github.io/recetas/tarta-de-queso-kinder/</link>
+      <link>http://localhost:1313/recetas/tarta-de-queso-kinder/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/tarta-de-queso-kinder/</guid>
+      <guid>http://localhost:1313/recetas/tarta-de-queso-kinder/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">☕ INGREDIENTES 🍰🥚🍫</h3>
 <hr>
@@ -123,9 +123,9 @@
     </item>
     <item>
       <title>Tiramisú</title>
-      <link>https://arcticmartian.github.io/recetas/tiramis%C3%BA/</link>
+      <link>http://localhost:1313/recetas/tiramis%C3%BA/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/tiramis%C3%BA/</guid>
+      <guid>http://localhost:1313/recetas/tiramis%C3%BA/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">☕ INGREDIENTES 🍰🥚🍫</h3>
 <hr>
@@ -175,9 +175,9 @@
     </item>
     <item>
       <title>Torrijas</title>
-      <link>https://arcticmartian.github.io/recetas/torrijas/</link>
+      <link>http://localhost:1313/recetas/torrijas/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/torrijas/</guid>
+      <guid>http://localhost:1313/recetas/torrijas/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">🥖 INGREDIENTES 🥛🥚🍊</h3>
 <hr>
@@ -234,9 +234,9 @@
     </item>
     <item>
       <title>Torrijas airfryer</title>
-      <link>https://arcticmartian.github.io/recetas/torrijas-airfryer/</link>
+      <link>http://localhost:1313/recetas/torrijas-airfryer/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/torrijas-airfryer/</guid>
+      <guid>http://localhost:1313/recetas/torrijas-airfryer/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<h3 id="-ingredientes-">🥖 INGREDIENTES 🥛🥚🍊</h3>
 <hr>
@@ -292,9 +292,9 @@
     </item>
     <item>
       <title>Pastel de Brócoli</title>
-      <link>https://arcticmartian.github.io/recetas/pastel-de-brocoli/</link>
+      <link>http://localhost:1313/recetas/pastel-de-brocoli/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/pastel-de-brocoli/</guid>
+      <guid>http://localhost:1313/recetas/pastel-de-brocoli/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<p>Una receta fácil y rápida para tu tupper de mañana.</p>
 <h3 id="-ingredientes-">🧂 Ingredientes 🧄🧅🥦🥧</h3>
@@ -360,9 +360,9 @@
     </item>
     <item>
       <title>Garbanzos con Espinacas</title>
-      <link>https://arcticmartian.github.io/recetas/garbanzos-con-espinacas/</link>
+      <link>http://localhost:1313/recetas/garbanzos-con-espinacas/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/garbanzos-con-espinacas/</guid>
+      <guid>http://localhost:1313/recetas/garbanzos-con-espinacas/</guid>
       <description>Recetas</description>
       <content:encoded><![CDATA[<p>Una receta fácil y rápida para tu tupper de mañana.</p>
 <h3 id="-ingredientes-">🧂 Ingredientes 🧄🧅🌱</h3>

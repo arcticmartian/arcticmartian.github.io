@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arcticmartian.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/pastel-de-tofu/</loc>
+    <loc>http://localhost:1313/recetas/pastel-de-tofu/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/</loc>
+    <loc>http://localhost:1313/recetas/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/tarta-de-queso-kinder/</loc>
+    <loc>http://localhost:1313/recetas/tarta-de-queso-kinder/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/tiramis%C3%BA/</loc>
+    <loc>http://localhost:1313/recetas/tiramis%C3%BA/</loc>
     <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/torrijas/</loc>
+    <loc>http://localhost:1313/recetas/torrijas/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/torrijas-airfryer/</loc>
+    <loc>http://localhost:1313/recetas/torrijas-airfryer/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/pensamientos/</loc>
+    <loc>http://localhost:1313/pensamientos/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/tags/post/</loc>
+    <loc>http://localhost:1313/tags/post/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</loc>
+    <loc>http://localhost:1313/pensamientos/sobre-el-blog/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/pastel-de-brocoli/</loc>
+    <loc>http://localhost:1313/recetas/pastel-de-brocoli/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/recetas/garbanzos-con-espinacas/</loc>
+    <loc>http://localhost:1313/recetas/garbanzos-con-espinacas/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/rese%C3%B1as/cumbres_borrascosas/</loc>
+    <loc>http://localhost:1313/rese%C3%B1as/cumbres_borrascosas/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/rese%C3%B1as/</loc>
+    <loc>http://localhost:1313/rese%C3%B1as/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/pensamientos/myfirst/</loc>
+    <loc>http://localhost:1313/pensamientos/myfirst/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arcticmartian.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://arcticmartian.github.io/plantitas/plantitas/</loc>
+    <loc>http://localhost:1313/plantitas/plantitas/</loc>
   </url><url>
-    <loc>https://arcticmartian.github.io/plantitas/</loc>
+    <loc>http://localhost:1313/plantitas/</loc>
   </url>
 </urlset>
