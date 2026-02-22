@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog en bajito</title>
-    <link>https://arcticmartian.github.io/</link>
-    <description>Recent content on blog en bajito</description>
+    <title>Recetillas on blog en bajito</title>
+    <link>http://localhost:1313/recetillas/</link>
+    <description>Recent content in Recetillas on blog en bajito</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>es</language>
     <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://arcticmartian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/recetillas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pastel de Tofu</title>
-      <link>https://arcticmartian.github.io/recetas/pastel-de-tofu/</link>
+      <link>http://localhost:1313/recetillas/pastel-de-tofu/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/pastel-de-tofu/</guid>
+      <guid>http://localhost:1313/recetillas/pastel-de-tofu/</guid>
       <description>&lt;p&gt;Una receta fácil y rápida para tu tupper de mañana.&lt;/p&gt;
 &lt;h3 id=&#34;-ingredientes-&#34;&gt;🧂 Ingredientes 🧄🧅🥦🥧&lt;/h3&gt;
 &lt;hr&gt;
@@ -87,9 +87,9 @@
     </item>
     <item>
       <title>Tarta de queso kinder</title>
-      <link>https://arcticmartian.github.io/recetas/tarta-de-queso-kinder/</link>
+      <link>http://localhost:1313/recetillas/tarta-de-queso-kinder/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/tarta-de-queso-kinder/</guid>
+      <guid>http://localhost:1313/recetillas/tarta-de-queso-kinder/</guid>
       <description>&lt;h3 id=&#34;-ingredientes-&#34;&gt;☕ INGREDIENTES 🍰🥚🍫&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;(molde 23cms):&lt;/p&gt;
@@ -182,9 +182,9 @@
     </item>
     <item>
       <title>Tiramisú</title>
-      <link>https://arcticmartian.github.io/recetas/tiramis%C3%BA/</link>
+      <link>http://localhost:1313/recetillas/tiramis%C3%BA/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/tiramis%C3%BA/</guid>
+      <guid>http://localhost:1313/recetillas/tiramis%C3%BA/</guid>
       <description>&lt;h3 id=&#34;-ingredientes-&#34;&gt;☕ INGREDIENTES 🍰🥚🍫&lt;/h3&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -272,9 +272,9 @@
     </item>
     <item>
       <title>Torrijas</title>
-      <link>https://arcticmartian.github.io/recetas/torrijas/</link>
+      <link>http://localhost:1313/recetillas/torrijas/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/torrijas/</guid>
+      <guid>http://localhost:1313/recetillas/torrijas/</guid>
       <description>&lt;h3 id=&#34;-ingredientes-&#34;&gt;🥖 INGREDIENTES 🥛🥚🍊&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Para convertir aproximadamente dos barras de pan en tu arsenal de torrijas.&lt;/em&gt;&lt;/p&gt;
@@ -369,9 +369,9 @@
     </item>
     <item>
       <title>Torrijas airfryer</title>
-      <link>https://arcticmartian.github.io/recetas/torrijas-airfryer/</link>
+      <link>http://localhost:1313/recetillas/torrijas-airfryer/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/torrijas-airfryer/</guid>
+      <guid>http://localhost:1313/recetillas/torrijas-airfryer/</guid>
       <description>&lt;h3 id=&#34;-ingredientes-&#34;&gt;🥖 INGREDIENTES 🥛🥚🍊&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Para convertir aproximadamente dos barras de pan en tu arsenal de torrijas.&lt;/em&gt;&lt;/p&gt;
@@ -463,47 +463,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sobre el blog</title>
-      <link>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</guid>
-      <description>&lt;h2 id=&#34;-blog-en-bajito-&#34;&gt;🌸 blog en bajito 🌸&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;1-contenido-del-blog&#34;&gt;1. Contenido del blog&lt;/h3&gt;
-&lt;p&gt;Poco a poco iré subiendo post relacionados con temas que me gustan que por lo general serán:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;💭 Pensamientos varios&lt;/li&gt;
-&lt;li&gt;📖 Reseñas de libros y películas&lt;/li&gt;
-&lt;li&gt;🍽️ Recetas vejetarianas y veganas&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2-por-qué-se-llama-blog-en-bajito&#34;&gt;2. ¿Por qué se llama blog en bajito?&lt;/h3&gt;
-&lt;p&gt;Este blog empezó llamándose &amp;ldquo;&lt;em&gt;&lt;strong&gt;my silly little blog&lt;/strong&gt;&lt;/em&gt;&amp;rdquo; pero no me terminaba de convencer porque el título estaba en inglés y el contenido iba a ser en español. Pensé en traducir el título a &amp;ldquo;&lt;em&gt;&lt;strong&gt;mi pequeño y tonto blog&lt;/strong&gt;&lt;/em&gt;&amp;rdquo; y aunque me hacía gracia no terminaba de gustarme del todo. Pasaron los meses y un día, de la nada, se me ocurrió &amp;ldquo;&lt;em&gt;&lt;strong&gt;blog en bajito&lt;/strong&gt;&lt;/em&gt;&amp;rdquo; y vi que encajaba conmigo. Es un blog personal para nada serio que iré completando sin prisa pero sin pausa (o esa es la intención). Básicamente lo he llamado así porque es un blog pequeño como un &lt;em&gt;susurro&lt;/em&gt;. No pretende molestar a nada ni a nadie y al mismo tiempo es como el suspiro que alivia a quien lo escribe, que en este caso soy yo. Encantada, soy Marta y muchas gracias por leer hasta aquí /ᐠ • ˕ •マ.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="-blog-en-bajito-">🌸 blog en bajito 🌸</h2>
-<p><em>Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.</em></p>
-<h3 id="1-contenido-del-blog">1. Contenido del blog</h3>
-<p>Poco a poco iré subiendo post relacionados con temas que me gustan que por lo general serán:</p>
-<ul>
-<li>💭 Pensamientos varios</li>
-<li>📖 Reseñas de libros y películas</li>
-<li>🍽️ Recetas vejetarianas y veganas</li>
-</ul>
-<h3 id="2-por-qué-se-llama-blog-en-bajito">2. ¿Por qué se llama blog en bajito?</h3>
-<p>Este blog empezó llamándose &ldquo;<em><strong>my silly little blog</strong></em>&rdquo; pero no me terminaba de convencer porque el título estaba en inglés y el contenido iba a ser en español. Pensé en traducir el título a &ldquo;<em><strong>mi pequeño y tonto blog</strong></em>&rdquo; y aunque me hacía gracia no terminaba de gustarme del todo. Pasaron los meses y un día, de la nada, se me ocurrió &ldquo;<em><strong>blog en bajito</strong></em>&rdquo; y vi que encajaba conmigo. Es un blog personal para nada serio que iré completando sin prisa pero sin pausa (o esa es la intención). Básicamente lo he llamado así porque es un blog pequeño como un <em>susurro</em>. No pretende molestar a nada ni a nadie y al mismo tiempo es como el suspiro que alivia a quien lo escribe, que en este caso soy yo. Encantada, soy Marta y muchas gracias por leer hasta aquí /ᐠ • ˕ •マ.</p>
-<h3 id="3-cómo-está-hecho-el-blog">3. ¿Cómo está hecho el blog?</h3>
-<p>No tengo mucha idea de nada y hacer este blog se siente como el si el diseño gráfico fuera mi pasión.</p>
-<ul>
-<li>Es una página web estática hecha con <a href="https://gohugo.io/">HUGO</a>.</li>
-<li>El diseño de la página web es gracias a una plantilla llamada <a href="https://github.com/adityatelange/hugo-PaperMod/">PaperMod</a>.</li>
-<li>Las imágenes son todas mías, eso sí (◕ᴗ◕✿). Y los iconos del blog y del perfil los he hecho con <a href="https://www.aseprite.org/">Aseprite</a>, una herramienta de dibujo pixel art.</li>
-</ul>
-<p>Tengo que confesar que mi novio 💌 me ha ayudado un montón con todos los detalles técnicos y este blog existe gracias a él ^^.</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Pastel de Brócoli</title>
-      <link>https://arcticmartian.github.io/recetas/pastel-de-brocoli/</link>
+      <link>http://localhost:1313/recetillas/pastel-de-brocoli/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/pastel-de-brocoli/</guid>
+      <guid>http://localhost:1313/recetillas/pastel-de-brocoli/</guid>
       <description>&lt;p&gt;Una receta fácil y rápida para tu tupper de mañana.&lt;/p&gt;
 &lt;h3 id=&#34;-ingredientes-&#34;&gt;🧂 Ingredientes 🧄🧅🥦🥧&lt;/h3&gt;
 &lt;hr&gt;
@@ -593,9 +556,9 @@
     </item>
     <item>
       <title>Garbanzos con Espinacas</title>
-      <link>https://arcticmartian.github.io/recetas/garbanzos-con-espinacas/</link>
+      <link>http://localhost:1313/recetillas/garbanzos-con-espinacas/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/recetas/garbanzos-con-espinacas/</guid>
+      <guid>http://localhost:1313/recetillas/garbanzos-con-espinacas/</guid>
       <description>&lt;p&gt;Una receta fácil y rápida para tu tupper de mañana.&lt;/p&gt;
 &lt;h3 id=&#34;-ingredientes-&#34;&gt;🧂 Ingredientes 🧄🧅🌱&lt;/h3&gt;
 &lt;hr&gt;
@@ -660,41 +623,6 @@
 <hr>
 <p>La primera vez que probé este plato fue en Sevilla (2024). Fui allí por un congreso y nada más llegar, decidimos comer en el primer bar con menú del día qué nos encontrásemos. Era bastante normalito por fuera, pero allí me comí las mejores espinacas con garbanzos de mi vida.</p>
 <p>Me obsesioné tanto con este plato que lo intenté replicar en mi casa varias veces. Las primeras veces fue un desastre y finalmente, en vez de intentar igualarlo decidí que por el momento era mejor adaptarlo a mi forma de cocinar.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Reseña Cumbres Borrascosas (wuthering heights) de Emily Brontë</title>
-      <link>https://arcticmartian.github.io/rese%C3%B1as/cumbres_borrascosas/</link>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/rese%C3%B1as/cumbres_borrascosas/</guid>
-      <description>&lt;p&gt;Por fin me he terminado Cumbres Borrascosas 📖🏔️⛈️🌬️ y a pesar de que los personajes me han caído todos fatal me ha gustado mucho.&lt;/p&gt;
-&lt;p&gt;Ha sido muy fuerte leer este libro y que encima sea un libro de 1847 escrito por una mujer. Emily Brönte publicó Cumbres Borrascosas bajo el pseudónimo de Ellis Bell y, a pesar de ser un nombre bastante neutro, la gente dio por hecho que estaba escrito por un hombre debido a que trata temas muy pasionales y crudos como el deseo sexual, la violencia, el alcoholismo y la locura.
-Pero, yo me pregunto, ¿cómo un hombre de aquella época podría haber escrito este libro, estando lleno de sentimientos fuertísimos, complejos y estando narrado con tanta intensidad y detalle? en fin cosas de la época victoriana y eso.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Por fin me he terminado Cumbres Borrascosas 📖🏔️⛈️🌬️ y a pesar de que los personajes me han caído todos fatal me ha gustado mucho.</p>
-<p>Ha sido muy fuerte leer este libro y que encima sea un libro de 1847 escrito por una mujer. Emily Brönte publicó Cumbres Borrascosas bajo el pseudónimo de Ellis Bell y, a pesar de ser un nombre bastante neutro, la gente dio por hecho que estaba escrito por un hombre debido a que trata temas muy pasionales y crudos como el deseo sexual, la violencia, el alcoholismo y la locura.
-Pero, yo me pregunto, ¿cómo un hombre de aquella época podría haber escrito este libro, estando lleno de sentimientos fuertísimos, complejos y estando narrado con tanta intensidad y detalle? en fin cosas de la época victoriana y eso.</p>
-<p>Me ha encantado como nos cuentan la historia a través de contársela a Lockwood y como Lockwood interacciona con los personajes de la historia verificando su existencia y completando la historia. me ha dejado con la sensación de que la historia y los personajes son reales.</p>
-<p>En general me ha sorprendido bastante la capacidad de Emily de inventarse esta historia completamente nueva con escenarios preciosos y horribles a la vez, pero lo que más me ha cautivado es su capacidad de explicar tantas emociones y sentimientos con tanta intensidad y detalle.</p>
-<p>Creo que es un libro de una chica loca (una imaginación increíble) para las demás chicas locas (para todo el mundo, leedlo, es muy fuerte).</p>
-<p>Muchas gracias Emily Brönte por ser tan valiente y tan genial.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Mi primer post :p</title>
-      <link>https://arcticmartian.github.io/pensamientos/myfirst/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/pensamientos/myfirst/</guid>
-      <description>&lt;p&gt;Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>plantitas</title>
-      <link>https://arcticmartian.github.io/plantitas/plantitas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arcticmartian.github.io/plantitas/plantitas/</guid>
-      <description>plantitas</description>
-      <content:encoded><![CDATA[<p>Aquí pondré datos sobre las plantitas que tengo 🌱</p>
 ]]></content:encoded>
     </item>
   </channel>
