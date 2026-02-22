@@ -4,7 +4,7 @@
     <title>Pensamientos on blog en bajito</title>
     <link>https://arcticmartian.github.io/pensamientos/</link>
     <description>Recent content in Pensamientos on blog en bajito</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>es</language>
     <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://arcticmartian.github.io/pensamientos/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,17 @@
       <link>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://arcticmartian.github.io/pensamientos/sobre-el-blog/</guid>
-      <description>🌸 blog en bajito 🌸 Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.
-1. Contenido del blog Poco a poco iré subiendo post relacionados con temas que me gustan que por lo general serán:
-💭 Pensamientos varios 📖 Reseñas de libros y películas 🍽️ Recetas vejetarianas y veganas 2. ¿Por qué se llama blog en bajito? Este blog empezó llamándose &amp;ldquo;my silly little blog&amp;rdquo; pero no me terminaba de convencer porque el título estaba en inglés y el contenido iba a ser en español.</description>
+      <description>&lt;h2 id=&#34;-blog-en-bajito-&#34;&gt;🌸 blog en bajito 🌸&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-contenido-del-blog&#34;&gt;1. Contenido del blog&lt;/h3&gt;
+&lt;p&gt;Poco a poco iré subiendo post relacionados con temas que me gustan que por lo general serán:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💭 Pensamientos varios&lt;/li&gt;
+&lt;li&gt;📖 Reseñas de libros y películas&lt;/li&gt;
+&lt;li&gt;🍽️ Recetas vejetarianas y veganas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-por-qué-se-llama-blog-en-bajito&#34;&gt;2. ¿Por qué se llama blog en bajito?&lt;/h3&gt;
+&lt;p&gt;Este blog empezó llamándose &amp;ldquo;&lt;em&gt;&lt;strong&gt;my silly little blog&lt;/strong&gt;&lt;/em&gt;&amp;rdquo; pero no me terminaba de convencer porque el título estaba en inglés y el contenido iba a ser en español. Pensé en traducir el título a &amp;ldquo;&lt;em&gt;&lt;strong&gt;mi pequeño y tonto blog&lt;/strong&gt;&lt;/em&gt;&amp;rdquo; y aunque me hacía gracia no terminaba de gustarme del todo. Pasaron los meses y un día, de la nada, se me ocurrió &amp;ldquo;&lt;em&gt;&lt;strong&gt;blog en bajito&lt;/strong&gt;&lt;/em&gt;&amp;rdquo; y vi que encajaba conmigo. Es un blog personal para nada serio que iré completando sin prisa pero sin pausa (o esa es la intención). Básicamente lo he llamado así porque es un blog pequeño como un &lt;em&gt;susurro&lt;/em&gt;. No pretende molestar a nada ni a nadie y al mismo tiempo es como el suspiro que alivia a quien lo escribe, que en este caso soy yo. Encantada, soy Marta y muchas gracias por leer hasta aquí /ᐠ • ˕ •マ.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="-blog-en-bajito-">🌸 blog en bajito 🌸</h2>
 <p><em>Bienvenidas a mi pequeño blog, tomen asiento pero no se lo tomen muy en serio.</em></p>
 <h3 id="1-contenido-del-blog">1. Contenido del blog</h3>
@@ -42,7 +50,7 @@
       <link>https://arcticmartian.github.io/pensamientos/myfirst/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://arcticmartian.github.io/pensamientos/myfirst/</guid>
-      <description>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</description>
+      <description>&lt;p&gt;Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Este es mi primer tonto y pequeño post. No es gran cosa pero es trabajo honesto.</p>
 ]]></content:encoded>
     </item>
